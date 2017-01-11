@@ -1,3 +1,4 @@
+package animal;
 public class MammalInt implements Animal {
         public void eat() {
                 System.out.println("Mammal eats");
